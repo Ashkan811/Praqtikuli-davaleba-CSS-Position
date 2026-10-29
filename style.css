@@ -26,3 +26,22 @@ body {
   background-color: orange;
   padding: 5px 10px;
 }
+
+.contact-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 12px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.skills-title {
+    position: sticky;
+    top: 0;
+    padding: 15px;
+    background-color: lightyellow;
+}
